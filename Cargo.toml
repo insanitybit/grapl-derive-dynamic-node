@@ -4,6 +4,8 @@ version = "0.1.1"
 authors = ["Insanitybit <insanitybit@gmail.com>"]
 edition = "2018"
 
+description = "A proc macro to help build Grapl plugins"
+license = "APACHE 2.0 or MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [lib]
